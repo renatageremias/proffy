@@ -1,0 +1,5 @@
+{
+    "sqltools.autoOpenSessionFiles": false,
+    "sqltools.highlightQuery": false,
+    "sqltools.showStatusbar": false
+}
